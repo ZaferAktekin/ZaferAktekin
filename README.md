@@ -1,5 +1,5 @@
 <img src="https://www.prepaway.com/design/img/courses/9475.jpg" width="1800px" height="260px">
-<h1><strong>Mehmet Ozleyen</strong></h1>
+<h1><strong>Zafer Aktekin</strong></h1>
 👋 Hi there!  I`m Zafer Aktekin
 <li>- 🔭 I'm currently working as an Internship Cloud & DevOps Engineer</li>
 <li>- 🌱 I'm interested in improving myself at Amazon Web Services</li>
