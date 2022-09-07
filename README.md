@@ -1,6 +1,6 @@
 <img src="https://www.prepaway.com/design/img/courses/9475.jpg" width="1800px" height="260px">
 <h1><strong>Mehmet Ozleyen</strong></h1>
-👋 Hi there!  I`m Mehmet Ozleyen
+👋 Hi there!  I`m Zafer Aktekin
 <li>- 🔭 I'm currently working as an Internship Cloud & DevOps Engineer</li>
 <li>- 🌱 I'm interested in improving myself at Amazon Web Services</li>
 <li>- 👯 I'm looking to collaborate on anything that can help you</li>
@@ -8,7 +8,7 @@
 <li>- 📫 How to reach me: </li>
 
 <body>
-<a href="https://www.linkedin.com/in/mehmet-ozleyen/" Target="_blank">
+<a href="https://www.linkedin.com/in/zafer-aktekin-3b4266222/" Target="_blank">
 <img src="https://user-images.githubusercontent.com/94003285/160731003-4e6ab064-1fa0-4e04-beb8-f207e2312932.png" alt="LinkedIn" width="110px" height="50px">
 </a>
 </body>
