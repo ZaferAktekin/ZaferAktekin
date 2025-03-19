@@ -1,10 +1,10 @@
 <img src="https://www.prepaway.com/design/img/courses/9475.jpg" width="1800px" height="260px">
 <h1><strong>Zafer Aktekin</strong></h1>
 👋 Hi there!  I`m Zafer Aktekin
-<li>- 🔭 I'm currently working as an Internship Cloud & DevOps Engineer</li>
+<li>- 🔭 I'm currently working as an Internship Azure & DevOps Engineer</li>
 <li>- 🌱 I'm interested in improving myself at Amazon Web Services</li>
 <li>- 👯 I'm looking to collaborate on anything that can help you</li>
-<li>- 🤔 I really like to help people. Besides this, I love exploring that something new and travelling</li>
+<li>- 🤔 I love exploring</li>
 <li>- 📫 How to reach me: </li>
 
 <body>
