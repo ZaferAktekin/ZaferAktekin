@@ -1,4 +1,4 @@
-<img src="https://www.prepaway.com/design/img/courses/9475.jpg" width="1800px" height="260px">
+<img src="https://www.angularminds.com/tech-logos/Cloud&Devops.svg" width="1800px" height="260px">
 <h1><strong>Zafer Aktekin</strong></h1>
 👋 Hi there!  I`m Zafer Aktekin
 <li>- 🔭 I'm currently working as an Internship Azure & DevOps Engineer</li>
