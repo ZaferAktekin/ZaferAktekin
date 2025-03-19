@@ -19,7 +19,7 @@
  </ul>
  <ul>
                                                                                                                       
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Tnjdmvd3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/iut5bis60lukw02yoe3j.jpg" width="110" height="50"> 
+<img src="https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/476505650_1017190063774905_2106128700019937496_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HC-1NfIxn3sQ7kNvgEsPf6_&_nc_oc=Adlf1BA48l9y0tT9Q-0vwqd1VqIcydUDthttXXjBVccSM3VdZe53ifE0IOwFsVlcD2o&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&_nc_gid=Jv56DuUbdG08kK1huhbn1w&oh=00_AYHPRDjmL7xfvS_Tq0fZLU-707FsfaLl_LloIWTFG48Ghg&oe=67E0AEC8" width="110" height="50"> 
 <img src="https://cms-assets.tutsplus.com/uploads/users/1199/posts/25940/preview_image/ansible.png" width="110" height="50">  <img src="https://www.kindpng.com/picc/m/745-7454540_apache-maven-hd-png-download.png" width="130" height="50">
 <img src="https://flyclipart.com/thumbs/set-up-docker-swarm-cluster-using-consul-dzone-cloud-docker-swarm-logo-1074961.png" width="110" height="50">  <img src="https://www.devopstechlab.com/wp-content/uploads/2018/01/jenkins-banner-1500x430.jpg" width="110" height="50"> 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648922226106/ReijKvWX1.png" width="110" height="50">  <img src="https://www.cncf.io/wp-content/uploads/2020/08/prometheusBanner-1.png" width="110" height="50"> 
