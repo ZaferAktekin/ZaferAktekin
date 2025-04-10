@@ -3,7 +3,7 @@
 👋 Hi there!  I`m Zafer Aktekin
 <li>- 🔭 I'm currently working as an Internship Azure & DevOps Engineer</li>
 <li>- 🌱 I'm interested in improving myself at Amazon Web Services</li>
-<li>- 👯 I'm looking to collaborate on anything that can help you</li>
+<li>- 🚀 Active Learner</li>
 <li>- 🤔 I love exploring</li>
 <li>- 📫 How to reach me: </li>
 
