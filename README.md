@@ -4,7 +4,7 @@
 <li>- 🎯 Currently working as an Azure & DevOps Engineer Intern</li>
 <li>- ☁️ Passionate about Amazon Web Services</li>
 <li>- 🚀 Active Learner</li>
-<li>- 🤔 I love exploring</li>
+<li>- 🔍 Love exploring new tools, tech, and ideas</li>
 <li>- 📫 How to reach me: </li>
 
 <body>
