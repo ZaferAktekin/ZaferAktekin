@@ -1,8 +1,8 @@
 <img src="https://www.angularminds.com/tech-logos/Cloud&Devops.svg" width="1800px" height="260px">
 <h1><strong>Zafer Aktekin</strong></h1>
 👋 Hi there!  I`m Zafer Aktekin
-<li>- 🔭 I'm currently working as an Internship Azure & DevOps Engineer</li>
-<li>- 🌱 I'm interested in improving myself at Amazon Web Services</li>
+<li>- 🎯 Currently working as an Azure & DevOps Engineer Intern</li>
+<li>- ☁️ Passionate about Amazon Web Services</li>
 <li>- 🚀 Active Learner</li>
 <li>- 🤔 I love exploring</li>
 <li>- 📫 How to reach me: </li>
