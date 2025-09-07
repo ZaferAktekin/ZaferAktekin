@@ -4,8 +4,8 @@
 <li>- 🎯 Have experience as an Azure DevOps Engineer Intern</li>
 <li>- ⚙️ Interested in DevOps practices, CI/CD, and automation to streamline development workflows</li>
 <li>- ☁️ Passionate about Amazon Web Services</li>
-<li>- 🚀 Active Learner</li>
 <li>- 🔍 Love exploring new tools, tech, and ideas</li>
+<li>- 🚀 Active Learner</li>
 <li>- 📫 How to reach me: </li>
 
 <body>
