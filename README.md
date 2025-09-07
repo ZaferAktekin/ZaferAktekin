@@ -2,6 +2,7 @@
 <h1><strong>Zafer Aktekin</strong></h1>
 👋 Hi there!  I`m Zafer Aktekin
 <li>- 🎯 Have experience as an Azure DevOps Engineer Intern</li>
+<li>- ⚙️ Interested in DevOps practices, CI/CD, and automation to streamline development workflows</li>
 <li>- ☁️ Passionate about Amazon Web Services</li>
 <li>- 🚀 Active Learner</li>
 <li>- 🔍 Love exploring new tools, tech, and ideas</li>
